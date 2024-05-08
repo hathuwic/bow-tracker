@@ -1,0 +1,5 @@
+Sensor distances from start of grip:
+1 (frog/lowest)  - 80mm
+2 (lower middle) - 180mm
+3 (upper middle) - 455mm (190mm from frog)
+4 (tip/highest)  - 575mm (70mm from frog)
